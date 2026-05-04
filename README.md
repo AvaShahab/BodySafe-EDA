@@ -1,12 +1,8 @@
 # BodySafe-EDA
-Exploratory Data Analysis of Toronto BodySafe Public Health Inspections
-
-# BodySafe-EDA
 
 **Exploratory Data Analysis and Inferential Statistics**
 Toronto BodySafe Public Health Inspections
-*Fatemeh Shahabdehkordi — Northeastern University*
-*April–May 2026*
+
 
 ---
 
